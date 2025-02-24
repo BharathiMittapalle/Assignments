@@ -14,20 +14,16 @@ public class Assignment1 {
 		String occupation = "Software Engineer";
 		String colour = "Blue";
 		short currentyear = 2023;
-		String mediaplatform = "1,00,0000";      
+		String mediaplatform = "1,00,0000";
 		float rateofmovie = 2.5f;
 		char bloodtype = 'A';
 		String titleofbook = "To Kill a Mockingbird";
 		short empno = 500;
-		String timeofevent = "2:30 PM";        
+		String timeofevent = "2:30 PM";
 		String countryname = "United States";
 		String eyecolour = "Brown";
 		String birthplace = "New york City";
 		float disbetcities = 200.5f;
-		
-	
-		
-		
 
 	}
 
