@@ -8,6 +8,11 @@ import java.util.Map;
 public class Assignment4 {
 public static void main(String[] args) {
 		
+	
+	String vaa = Assignment3.val2;
+	System.out.println(vaa);
+	
+	
 		//Below Employee1Map details are stored using Map(HashMap) 
 		
 		Map<String,String > Employee1Map = new HashMap<String,String>();
